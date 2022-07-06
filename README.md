@@ -2,11 +2,11 @@
 
 A MAC address is a unique physical identifier that is burned into a device network interface card (NIC). This Python script allows you to change the MAC address of your interface which can be used in penetration testing to impersonate other devices, bypass filters and/or connect to networks that only specific devices with specific MAC addresses can access. Changing the MAC address of your interface also increases your anonimity.
 
-- To run this script
+- To run this script:
 
 `python mac-changer.py -i [interface] -m [new-mac-address]`
 
-- For more information
+- For more information:
 
 `python mac-changer.py --help`
 
