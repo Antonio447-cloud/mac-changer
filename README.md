@@ -6,7 +6,7 @@ A MAC address is a unique physical identifier that is burned into a device netwo
 
 `python mac-changer.py -i [interface] -m [new-mac-address]`
 
-- For more information run
+- For more information
 
 `python mac-changer.py --help`
 
