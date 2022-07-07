@@ -10,7 +10,11 @@ A MAC address is a unique physical identifier that is burned into a device netwo
 
 `python mac-changer.py --help`
 
-**Note**: *This script is desgined work on Linux distributions only.*     
+## Output
+
+![output](./image/output.png)
+
+**Note**: *This script is desgined to work on Linux distributions only.*     
 
 ## Legal Disclaimer
 
