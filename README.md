@@ -14,7 +14,7 @@ A MAC address is a unique physical identifier that is burned into a device netwo
 
 ![output](./image/output.png)
 
-**Note**: *This script is desgined to work on Linux distributions only.*     
+**Note**: *This script was developed to work on Linux distributions only.*     
 
 ## Legal Disclaimer
 
